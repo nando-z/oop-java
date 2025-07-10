@@ -1,4 +1,4 @@
-package org.encap;
+package org.encapsulation;
 
 public class User {
     private String username;

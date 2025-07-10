@@ -3,3 +3,17 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+# Ignore Gradle wrapper directory
+gradle/wrapper
+# Ignore IntelliJ IDEA project files
+.idea
+.vscode
+# Ignore Eclipse project files
+.classpath
+.project
+
+image.png

@@ -1,7 +1,5 @@
 # Object-Oriented Programming Project in Java
 
-[![CI Status](https://github.com/nando-z/oop-java/workflows/CI/badge.svg)](https://github.com/nando-z/oop-java/actions)
-
 ## Overview
 
 This repository contains a Java-based project that demonstrates object-oriented programming principles and best practices. The project is built using Gradle and follows modern development workflows.
